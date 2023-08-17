@@ -35,17 +35,17 @@ Uma pull request (ou solicitação de pull) é uma funcionalidade do GitHub que 
 
 ## Demonstração Prática
 
-- [Criando um Repositório](github/criando_um_repositorio.md).
-- [Clonando um Repositório](github/clonando_um_repositorio.md).
-- [Fazendo Alterações](github/alterando_um_repositorio.md).
-- [Commit e Push](github/commit.md).
-- [Push](github/push.md).
+- [Criando um Repositório](https://github.com/Mulheres-h/minicursos/blob/main/github/criando_um_repositorio.md).
+- [Clonando um Repositório](https://github.com/Mulheres-h/minicursos/blob/main/github/clonando_um_repositorio.md).
+- [Fazendo Alterações](https://github.com/Mulheres-h/minicursos/blob/main/github/alterando_um_repositorio.md).
+- [Commit e Push](https://github.com/Mulheres-h/minicursos/blob/main/github/commit.md).
+- [Push](https://github.com/Mulheres-h/minicursos/blob/main/github/push.md).
 
 ## Colaboração e Pull Requests
 
-- [Forking](github/forking.md).
-- [Pull Request](github/pull_request.md).
-- [Merge](github/merge.md).
+- [Forking](https://github.com/Mulheres-h/minicursos/blob/main/github/forking.md).
+- [Pull Request](https://github.com/Mulheres-h/minicursos/blob/main/github/pull_request.md).
+- [Merge](https://github.com/Mulheres-h/minicursos/blob/main/github/merge.md).
 
 ## Boas Práticas e Recursos Avançados
  - **Boas Práticas**:
