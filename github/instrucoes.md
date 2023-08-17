@@ -35,17 +35,17 @@ Uma pull request (ou solicitação de pull) é uma funcionalidade do GitHub que 
 
 ## Demonstração Prática
 
-- **Criando um Repositório**: Demonstração de como criar um novo repositório no GitHub.
-- **Clonando um Repositório**: Como clonar um repositório para a sua máquina local usando o Git.
-- **Fazendo Alterações**: Adicionando, modificando e excluindo arquivos no repositório clonado.
-- **Commit e Push**: Realização de commits locais e envio das alterações para o repositório remoto.
+- [Criando um Repositório](github/criando_um_repositorio.md).
+- [Clonando um Repositório](github/clonando_um_repositorio.md).
+- [Fazendo Alterações](github/alterando_um_repositorio.md).
+- [Commit e Push](github/commit.md).
+- [Push](github/push.md).
 
 ## Colaboração e Pull Requests
 
-- **Forking**: Explicação sobre como fazer um fork de um repositório para contribuir.
-- **Criando uma Pull Request**: Demonstração de como criar uma pull request para propor alterações em um projeto.
-- **Revisão de Código**: Como revisar as alterações propostas e fornecer feedback construtivo.
-- **Merge**: Explicação sobre como aceitar e mesclar uma pull request.
+- [Forking](github/forking.md).
+- [Pull Request](github/pull_request.md).
+- [Merge](github/merge.md).
 
 ## Boas Práticas e Recursos Avançados
  - **Boas Práticas**:
