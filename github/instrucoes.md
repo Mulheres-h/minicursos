@@ -40,12 +40,6 @@ Uma pull request (ou solicitação de pull) é uma funcionalidade do GitHub que 
 - [Fazendo Alterações](https://github.com/Mulheres-h/minicursos/blob/main/github/alterando_um_repositorio.md).
 - [Commit e Push](https://github.com/Mulheres-h/minicursos/blob/main/github/commit_e_push.md).
 
-## Colaboração e Pull Requests
-
-- [Forking](https://github.com/Mulheres-h/minicursos/blob/main/github/forking.md).
-- [Pull Request](https://github.com/Mulheres-h/minicursos/blob/main/github/pull_request.md).
-- [Merge](https://github.com/Mulheres-h/minicursos/blob/main/github/merge.md).
-
 ## Boas Práticas e Recursos Avançados
  - **Boas Práticas**:
 
